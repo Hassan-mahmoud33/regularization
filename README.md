@@ -72,7 +72,7 @@ Accuracy = 79.66101694915254 %
 
 ## Visualization
 - the figure below shows Accepted and Rejected Students
-![Admitted and Not Admitted Students](images/figure.png)
+![Admitted and Not Admitted Students](figure.png)
 
 
 ## How to Run
